@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/s3wd-app/static/css/main.ec7c834d.chunk.css",
+    "main.js": "/s3wd-app/static/js/main.55adf68e.chunk.js",
+    "main.js.map": "/s3wd-app/static/js/main.55adf68e.chunk.js.map",
+    "runtime-main.js": "/s3wd-app/static/js/runtime-main.4213b218.js",
+    "runtime-main.js.map": "/s3wd-app/static/js/runtime-main.4213b218.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/s3wd-app/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.816b274a.chunk.js": "/s3wd-app/static/js/2.816b274a.chunk.js",
+    "static/js/2.816b274a.chunk.js.map": "/s3wd-app/static/js/2.816b274a.chunk.js.map",
+    "index.html": "/s3wd-app/index.html",
+    "precache-manifest.4449620fb75ceb85dacbc10636296f25.js": "/s3wd-app/precache-manifest.4449620fb75ceb85dacbc10636296f25.js",
+    "service-worker.js": "/s3wd-app/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/s3wd-app/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.ec7c834d.chunk.css.map": "/s3wd-app/static/css/main.ec7c834d.chunk.css.map",
+    "static/js/2.816b274a.chunk.js.LICENSE.txt": "/s3wd-app/static/js/2.816b274a.chunk.js.LICENSE.txt",
+    "static/media/aboutImg2.png": "/s3wd-app/static/media/aboutImg2.f88e1164.png",
+    "static/media/rocket.png": "/s3wd-app/static/media/rocket.a7cd7bea.png",
+    "static/media/s3wd-white.png": "/s3wd-app/static/media/s3wd-white.1cdacc67.png",
+    "static/media/service1.jpg": "/s3wd-app/static/media/service1.64305e6f.jpg",
+    "static/media/service2.jpg": "/s3wd-app/static/media/service2.c8cc71c3.jpg",
+    "static/media/service3.jpg": "/s3wd-app/static/media/service3.568b0edb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4213b218.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.816b274a.chunk.js",
+    "static/css/main.ec7c834d.chunk.css",
+    "static/js/main.55adf68e.chunk.js"
+  ]
+}
